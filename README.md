@@ -1,2 +1,2 @@
 # sublime.settings-user
-# Backup my SB's preferences.sublime-settings
+# Backup my preferences.sublime-settings
